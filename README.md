@@ -1,7 +1,7 @@
 # CScrollNubLabel
-1.支持三种UILabel中数字翻滚效果。            UILabel number turn over    
-2.支持小数点符号闪烁[指定时间、闪烁次数]。    Support the decimal notation
-3.支持小数点符号停止闪烁。                   Support the decimal notation to stop flashing
+1.支持三种UILabel中数字翻滚效果。            UILabel number turn over                                      
+2.支持小数点符号闪烁[指定时间、闪烁次数]。    Support the decimal notation                     
+3.支持小数点符号停止闪烁。                   Support the decimal notation to stop flashing               
 
 
 
